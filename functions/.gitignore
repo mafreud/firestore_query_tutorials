@@ -2,6 +2,9 @@
 lib/**/*.js
 lib/**/*.js.map
 
+# service-key
+scripts/keys
+
 # TypeScript v1 declaration files
 typings/
 
